@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>First updaate</p>
+        <h2>Second Update</h2>
       </header>
     </div>
   );
